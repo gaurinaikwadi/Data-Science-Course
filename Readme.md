@@ -64,7 +64,7 @@ To explore the solutions, please follow these steps:
 
 <div align='center' style="gap: 10px; display: flex; justify-content: center; align-items: center;">
 
-  <a href=" https://www.linkedin.com/in/gauri-naikwadi-102b59313" target="_blank">
+  <a href="linkedin.com/in/gauri-naikwadi-102b59313" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
