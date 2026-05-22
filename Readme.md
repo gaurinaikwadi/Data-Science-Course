@@ -44,7 +44,11 @@ The goal of this project is to master real-world data handling, machine learning
 
 ### Daily Progress Log
   - *NumPy Development Initiated.*
-  - **Day 1**: Basic Introduction. 
+  - **Day 1 : 🚀 Day 1 – NumPy Journey**
+    - 💻 Why Use NumPy + Introduction to NumPy.
+    - 📊 Created arrays and understood basics.
+    - ✂️ Practiced indexing and slicing.
+    - 🧩 Explored multidimensional indexing and axes.
 
 
 ---
