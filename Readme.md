@@ -4,7 +4,7 @@
 
 Here's a quick look at my Data Science & Machine Learning journey:
 
-- **Days Collected**: ``
+- **Days Collected**: `4` 
 - **Languages / Tools Practiced**: `Python`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `Flask`, `Git`
 - **Current Focus**: `Numpy`
 
@@ -49,6 +49,21 @@ The goal of this project is to master real-world data handling, machine learning
     - 📊 Created arrays and understood basics.
     - ✂️ Practiced indexing and slicing.
     - 🧩 Explored multidimensional indexing and axes.
+
+  - 📅 **Day 2: Practice Set 1 Solved**
+    - 🧩 Practice Set 1: Solved and Explained.
+    - 📦 Creating NumPy Arrays.
+    - 🔍 Indexing and Slicing.
+    - 🧠 Multidimensional Indexing and Understanding Axis.
+  
+  - 📅 **Day 3: NumPy Core Concepts**
+   - 🧬 Data Types in Numpy.
+   - 🌐 Broadcasting in NumPy.
+   - ⚙️ Built-in Functions in NumPy.
+
+  - 📅 **Day 4: Practice Set 2 Solved**
+   - 🧬 Exercise Solve on Data Types in NumPy
+   - 🌐 Exercise Solve on Broadcasting in NumPy.
 
 
 ---
