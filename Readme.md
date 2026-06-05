@@ -57,36 +57,36 @@ The goal of this project is to master real-world data handling, machine learning
     - 🧠 Multidimensional Indexing and Understanding Axis.
   
   - 📅 **Day 3: NumPy Core Concepts**
-   - 🧬 Data Types in Numpy.
-   - 🌐 Broadcasting in NumPy.
-   - ⚙️ Built-in Functions in NumPy.
+    - 🧬 Data Types in Numpy.
+    - 🌐 Broadcasting in NumPy.
+    - ⚙️ Built-in Functions in NumPy.
 
   - 📅 **Day 4: Practice Set 2 Solved**
-   - 🧬 Exercise Solve on Data Types in NumPy
-   - 🌐 Exercise Solve on Broadcasting in NumPy.
+    - 🧬 Exercise Solve on Data Types in NumPy
+    - 🌐 Exercise Solve on Broadcasting in NumPy.
 
   - *Pandas Development Initiated.*
 
   - 📅 **Day 5: Pandas Fundamentals**
-   - 📘 Introduction to Pandas + Why Use Pandas.
-   - 📦 Core Data Structures in Pandas
-   - 🔧 Creating DataFrames
-   - 📋 Data Selection & Filtering
+    - 📘 Introduction to Pandas + Why Use Pandas.
+    - 📦 Core Data Structures in Pandas
+    - 🔧 Creating DataFrames
+    - 📋 Data Selection & Filtering
 
   - 📅 **Day 6: Practice Set 1 Solved**
-   - 📦 Exercise Solve on Core Data Structures in Pandas.
-   - 🔧 Exercise Solve on Creating DataFrames.
-   - 📋 Exercise Solve on Data Selection & Filtering.
+    - 📦 Exercise Solve on Core Data Structures in Pandas.
+    - 🔧 Exercise Solve on Creating DataFrames.
+    - 📋 Exercise Solve on Data Selection & Filtering.
 
   - 📅 **Day 7: Pandas Advanced Topics**
-   - 🧹 Data Cleaning & Preprocessing in Pandas.
-   - 🔄 Data Transformation in Pandas.
-   - 📊 Data Reshaping in Pandas.
+    - 🧹 Data Cleaning & Preprocessing in Pandas.
+    - 🔄 Data Transformation in Pandas.
+    - 📊 Data Reshaping in Pandas.
 
   - 📅 **Day 8: Practice Set 2 Solved**
-   - 🧹 Exercise Solve on Data Cleaning & Preprocessing in Pandas.
-   - 🔄 Exercise Solve on Data Transformation in Pandas.
-   - 📊 Exercise Solve on Data Reshaping in Pandas.
+    - 🧹 Exercise Solve on Data Cleaning & Preprocessing in Pandas.
+    - 🔄 Exercise Solve on Data Transformation in Pandas.
+    - 📊 Exercise Solve on Data Reshaping in Pandas.
 
 ---
 
