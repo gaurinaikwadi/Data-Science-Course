@@ -4,9 +4,9 @@
 
 Here's a quick look at my Data Science & Machine Learning journey:
 
-- **Days Collected**: `8` 
+- **Days Collected**: `12` 
 - **Languages / Tools Practiced**: `Python`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `Flask`, `Git`
-- **Current Focus**: `Matplotlib`
+- **Current Focus**: `Seaborn`
 
 ---
 
@@ -87,6 +87,29 @@ The goal of this project is to master real-world data handling, machine learning
     - 🧹 Exercise Solve on Data Cleaning & Preprocessing in Pandas.
     - 🔄 Exercise Solve on Data Transformation in Pandas.
     - 📊 Exercise Solve on Data Reshaping in Pandas.
+
+  - 📅 **Day 9: Practice Set 3 Solved**
+    - 📊 Exercise solved on some pandas coding tasks.
+   
+ - *🚀 Data Visualization using Matplotlib and Seaborn Initiated.*
+
+  - 📅 **Day 10: Data Visualization using Matplotlib**
+
+    - 📖 Introduction to Data Visualization.
+    - 📈 Plotting Charts using Matplotlib.
+    - 📊 Bar Charts in Matplotlib.
+    - 🥧 Pie Charts in Matplotlib.
+
+ - 📅 **Day 11: Advanced Matplotlib Visualizations**
+
+   - 📚 Stack Plots in Matplotlib.
+   - 📊 Histograms in Matplotlib.
+   - 🔵 Scatter Plots in Matplotlib.
+   - 🗂️ Subplots in Matplotlib.
+
+ - 📅 **Day 12: Seaborn Fundamentals**
+
+   - 🌟 Introduction to Seaborn.
 
 ---
 
