@@ -6,7 +6,7 @@ Here's a quick look at my Data Science & Machine Learning journey:
 
 - **Days Collected**: `8` 
 - **Languages / Tools Practiced**: `Python`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `Flask`, `Git`
-- **Current Focus**: `Pandas`
+- **Current Focus**: `Matplotlib`
 
 ---
 
